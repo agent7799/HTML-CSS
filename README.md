@@ -1,1 +1,3 @@
-HTML&CSS
+Education tasks on HTML&CSS base course
+
+
